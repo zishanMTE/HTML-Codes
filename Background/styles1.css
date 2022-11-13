@@ -1,0 +1,30 @@
+.body{
+    /* background-image: url(images.jpeg);
+      background-repeat: no-repeat;
+      background-size: auto;  */
+      width: 1920px;
+       height: 1740px;
+       /* background-color: rgba(175, 175, 214, 0.784); */
+     border: 2px solid yellow;
+     /* background-position: center; */
+    /* background-attachment: scroll; */
+    background: blue url(images.jpeg) no-repeat scroll top center;
+
+
+
+
+}
+.movies{
+    /* background-color: greenyellow; */
+    color: violet; 
+}
+
+.con{
+    /* background-color: rgba(175, 175, 214, 0.784);*/
+    color: black; 
+    /* background-image: url('2022-11-10 11_00_33-Twinned movies released at the same time _ NPR — Mozilla Firefox.png'); */
+  
+   
+    
+    
+}
